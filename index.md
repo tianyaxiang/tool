@@ -8,6 +8,9 @@ JSON Editor Online是一种在线的JSON编辑器，包括格式化，可视化�
 ### Bootstrap在线构建页面
 [Bootstrap在线构建页面](http://www.bootcss.com/p/layoutit/).
 layoutit通过拖放动作将Bootstrap风格的组件加入到你的个人设计里。你只需下载生成的HTML源码就可进一步开展代码设计。
+### 矢量图标库
+[矢量图标库](https://www.iconfont.cn/).
+Iconfont-国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。
 ```markdown
 Syntax highlighted code block
 
